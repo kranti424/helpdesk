@@ -68,7 +68,8 @@ const SignIn = ({ onSignUpClick, onForgotPasswordClick, onLoginSuccess }) => {
         {/* Demo credentials info */}
         <div className="demo-credentials">
           <p><strong>Demo Credentials:</strong></p>
-          <p>Username: admin, Password: admin123</p>
+          <p>Username: demo, Password: demo123</p>
+          <h5>to login as admin or operator or technician refer to data from auth folder</h5>
         </div>
         
         <form onSubmit={handleSubmit}>
