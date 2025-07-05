@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { User, Settings, Bell, LogOut, Search, Upload, Star, Grid, FileText, List, Edit } from 'lucide-react';
+import { User, Bell, LogOut, Search, Upload, Star, Grid, FileText, List, Edit } from 'lucide-react';
 
 // Header Component
 const Header = ({ onProfileClick, onLogout }) => (

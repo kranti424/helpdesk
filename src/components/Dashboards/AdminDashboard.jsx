@@ -10,7 +10,6 @@ import {
   Trash2,
   Star,
   StarHalf,
-  Bell,
   Menu,
   X,
   ChevronDown,
